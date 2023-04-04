@@ -10,5 +10,8 @@ public class IntegerDivider {
         } else {
             System.out.println("cannot be divided completely");
         }
+
+
+        
     }
 }
